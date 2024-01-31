@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minutnik</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="start">start</string>
+    <string name="_1">1</string>
+    <string name="reset">reset</string>
+    <string name="stop">stop</string>
+</resources>
